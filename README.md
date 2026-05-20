@@ -165,6 +165,6 @@ OPENAI_API_KEY=
 </p>
 
 <p align="center">
-  <b>MIAS MDX v4.9.9 · obfuscated build</b><br/>
+  <b>MIAS MDX v4.9.9 .
   <sub>made loud · run silent</sub>
 </p>
