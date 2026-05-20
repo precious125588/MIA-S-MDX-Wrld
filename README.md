@@ -1,5 +1,4 @@
 # 🜲  MIAS MDX  ·  MIA'S MDX ·  v4.9.9
-### *the obfuscated, hardened build*
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=600&color=8AE234&center=true&vCenter=true&multiline=true&width=820&height=110&lines=%E2%9A%A1+MIAS+MDX+%E2%80%94+WhatsApp+Super-Bot;%F0%9F%A7%A0+powered+by+NIX+Assistant+v1.0;%F0%9F%94%92+Encrypted+%C2%B7+Obfuscated+%C2%B7+Battle-tested" alt="MIAS MDX" />
